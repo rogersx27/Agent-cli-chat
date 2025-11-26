@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__
+*.pyc
+
+# IDE
+.idea
+.vscode
+
+# System
+.DS_Store
+Thumbs.db
+
+# Network
+*.sock
+
+# Logs
+*.log
