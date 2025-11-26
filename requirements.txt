@@ -1,0 +1,5 @@
+typer
+rich
+colorama
+pydantic
+prompt_toolkit
